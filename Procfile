@@ -1,0 +1,1 @@
+pogo_rama: ~/vendor/rama/node_modules/coffee-script/bin/coffee ~/vendor/rama/rama.coffee
